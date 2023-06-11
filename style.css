@@ -151,3 +151,24 @@ body, h1, h2, p, ul, li, form {
 ul.hide {
     display: none;
   }
+
+
+#skillsList .selected {
+    background-color: #3857f1;
+    color: #e52222;
+    font-weight: bold;
+  }
+  /* style.css */
+/* Rest of your CSS code */
+
+.additional-info {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f1f1f1;
+    display: none;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
