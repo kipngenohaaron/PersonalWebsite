@@ -25,7 +25,9 @@
 
 ## Sketch
 
-
+## Contact Info.
+### For more information you can reach out; Email: kipngenohaaron@gmail.com
+#### 0724279400 / 0724828197
 
 ## LInk to live 
 https://kipngenohaaron.github.io/PersonalWebsite/
