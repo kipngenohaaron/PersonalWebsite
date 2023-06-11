@@ -148,3 +148,6 @@ body, h1, h2, p, ul, li, form {
     display: block;
   }
   
+ul.hide {
+    display: none;
+  }
