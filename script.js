@@ -29,3 +29,8 @@ function changeBackgroundColor() {
   const skillsHeader = document.querySelector('h2');
   skillsHeader.addEventListener('click', showAdditionalInfo);
   
+
+  // Adding alert to submit button
+  sr.reveal('.content',{delay:190, origin:'bottom'})
+
+sr.reveal('.about,.services,.portfolio,.contact',{delay:200, origin:'bottom'})
