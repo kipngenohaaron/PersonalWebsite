@@ -155,7 +155,7 @@ body, h1, h2, p, ul, li, form {
  .column img{
   height: 17rem;
   border-radius: 50%;
-  margin-left: 8rem;
+  margin-left: 1rem;
   transition: 4s;
   animation: bounce 2.5s infinite;
 }
