@@ -217,4 +217,18 @@ ul.hide {
   .hide {
     display: none;
   }
-  
+
+
+
+
+.message {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f3f3f3;
+  color: #333;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+
