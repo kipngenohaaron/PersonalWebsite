@@ -15,27 +15,7 @@ function changeBackgroundColor() {
     return color;
   }
   
-  // Add event listener to the header for background color change
-  const header = document.querySelector('header');
-  header.addEventListener('click', changeBackgroundColor);
-  
-  // Show additional information
-  function showAdditionalInfo() {
-    const additionalInfo = document.querySelector('.additional-info');
-    additionalInfo.classList.toggle('hide');
-  }
-  
-  // Add event listener to the "Interest and Skills" section for additional information
-  const skillsHeader = document.querySelector('h2');
-  skillsHeader.addEventListener('click', showAdditionalInfo);
-  
-
-  // Adding alert to submit button
-  sr.reveal('.content',{delay:190, origin:'bottom'})
-
-sr.reveal('.about,.services,.portfolio,.contact',{delay:200, origin:'bottom'})
-
-// Event listener for form submission
+  // Event listener for form submission
 const contactForm = document.getElementById('contactForm');
 const submitButton = document.getElementById('submitButton');
 
