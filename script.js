@@ -1,4 +1,4 @@
-// script.js
+
 // Change background color
 function changeBackgroundColor() {
     const body = document.querySelector('body');
